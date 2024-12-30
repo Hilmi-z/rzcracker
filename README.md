@@ -10,6 +10,8 @@ Rzcracker is a powerful password brute-force tool designed to crack password-pro
 
 It supports verbose output, allowing users to monitor the password attempts in real time.
 
+![Tool Preview](image.png)
+
 ---
 
 ## **Features**
