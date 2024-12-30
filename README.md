@@ -1,21 +1,18 @@
 # rzcracker
-
-# 🔒 Password Cracker Tool
-
-**Author:** xDU0  
-**Version:** 1.0  
-**License:** MIT  
+![Static Badge](https://img.shields.io/badge/Author-xDU0-blue)
+![Static Badge](https://img.shields.io/badge/Version-1.0-green)
+![Static Badge](https://img.shields.io/badge/License-MIT-orange)
 
 ---
 
-## 📜 **Description**
-This script is a powerful password brute-force tool designed to crack password-protected **ZIP** and **RAR** archives using a dictionary-based attack.
+## **Description**
+Rzcracker is a powerful password brute-force tool designed to crack password-protected **ZIP** and **RAR** archives using a dictionary-based attack.
 
 It supports verbose output, allowing users to monitor the password attempts in real time.
 
 ---
 
-## ⚙️ **Features**
+## ⚙**Features**
 - 🗂️ Supports both **ZIP** and **RAR** archive formats.
 - 📖 Dictionary-based brute-force attack.
 - 🛠️ Verbose mode for detailed output.
@@ -23,7 +20,7 @@ It supports verbose output, allowing users to monitor the password attempts in r
 
 ---
 
-## 🚀 **Installation**
+## **Installation**
 Make sure you have the necessary dependencies installed:
 
 ```bash
@@ -38,7 +35,7 @@ chmod +x archiveCracker.sh
 
 ---
 
-## 📚 **Usage**
+## **Usage**
 
 ### Basic Syntax
 ```bash
@@ -65,22 +62,22 @@ chmod +x archiveCracker.sh
 
 ---
 
-## 🛡️ **Disclaimer**
+##  **Disclaimer**
 This tool is intended for **educational purposes only**. Unauthorized use on systems or archives without proper authorization is strictly prohibited.
 
 Use responsibly!
 
 ---
 
-## 🤝 **Contributing**
+## **Contributing**
 Feel free to submit **issues**, **pull requests**, or feature suggestions!
 
 ---
 
-## 📝 **License**
+## **License**
 This project is licensed under the **MIT License**.
 
 ---
 
-**Happy Cracking! 🐍**
+**Happy Cracking!**
 
