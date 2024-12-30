@@ -21,16 +21,28 @@ It supports verbose output, allowing users to monitor the password attempts in r
 ---
 
 ## **Installation**
-Make sure you have the necessary dependencies installed:
+### Clone the Repository
+First, clone the repository from GitHub:
+```bash
+git clone https://github.com/xDU0/rzcracker.git
+cd rzcracker
+```
 
+### Install Dependencies
+Make sure you have the necessary dependencies installed:
 ```bash
 sudo apt install unzip unrar
 ```
 
-Make the script executable:
-
+### Make the Script Executable
 ```bash
-chmod +x archiveCracker.sh
+chmod +x rzcracker.sh
+```
+
+### Run the Script
+You are now ready to use the script:
+```bash
+./rzcracker.sh -h
 ```
 
 ---
@@ -39,7 +51,7 @@ chmod +x archiveCracker.sh
 
 ### Basic Syntax
 ```bash
-./archiveCracker.sh [OPTIONS]
+./rzcracker.sh [OPTIONS]
 ```
 
 ### Options:
@@ -52,12 +64,12 @@ chmod +x archiveCracker.sh
 ### Example Usage
 #### Cracking a ZIP File:
 ```bash
-./archiveCracker.sh -z secret.zip -d passwords.txt -v
+./rzcracker.sh -z secret.zip -d passwords.txt -v
 ```
 
 #### Cracking a RAR File:
 ```bash
-./archiveCracker.sh -r secret.rar -d passwords.txt -v
+./rzcracker.sh -r secret.rar -d passwords.txt -v
 ```
 
 ---
