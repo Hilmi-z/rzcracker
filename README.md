@@ -1,5 +1,5 @@
 # rzcracker
-![Static Badge](https://img.shields.io/badge/Author-xDU0-blue)
+[![Static Badge](https://img.shields.io/badge/Author-xDU0-blue)](https://github.com/Hilmi-z)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-green)
 ![Static Badge](https://img.shields.io/badge/License-MIT-orange)
 
@@ -12,7 +12,7 @@ It supports verbose output, allowing users to monitor the password attempts in r
 
 ---
 
-## ⚙**Features**
+## **Features**
 - 🗂️ Supports both **ZIP** and **RAR** archive formats.
 - 📖 Dictionary-based brute-force attack.
 - 🛠️ Verbose mode for detailed output.
