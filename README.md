@@ -24,7 +24,7 @@ It supports verbose output, allowing users to monitor the password attempts in r
 ### Clone the Repository
 First, clone the repository from GitHub:
 ```bash
-git clone https://github.com/xDU0/rzcracker.git
+git clone https://github.com/Hilmi-z/rzcracker.git
 cd rzcracker
 ```
 
